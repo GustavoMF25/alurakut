@@ -4,11 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-/nbproject
+
 
 # testing
 /coverage
-
+/.nbproject/
 # next.js
 /.next/
 /out/
